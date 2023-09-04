@@ -1,5 +1,5 @@
 package;
-import flixel.*;
+import flixel.FlxState;
 
 class Battle extends FlxState{
     public override function create() {

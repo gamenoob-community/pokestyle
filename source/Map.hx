@@ -1,8 +1,8 @@
 package;
 
 import flixel.FlxState;
-import flixel.addons.editors.tiled.*;
-class Map extends FlxState
+
+class MapState extends FlxState
 {
 	override public function create()
 	{
